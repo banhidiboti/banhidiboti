@@ -6,6 +6,6 @@
 
 <p align="center">
   <a href="https://banhidiboti.github.io/MiniArcade/">
-    <img src="https://img.shields.io/badge/Play%20Now-MiniArcade-00ffff?style=for-the-badge&logo=gamepad">
+    <img src="./play-button.svg" alt="PLAY NOW" width="220">
   </a>
 </p>
